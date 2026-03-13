@@ -1,0 +1,147 @@
+{
+  "application_id": "APP-2026-8834",
+  "user_id": "a7f92523-4504-4584-8d72-5f952508ba01",
+  "job_id": "JOB-2026-9579",
+  "candidate_name": "Aswin",
+  "email": "maaswin03@gmail.com",
+  "phone": "9597496287",
+  "job_title": "Frontend Intern",
+  "job_description": "This is a 6-month paid internship where you will contribute production-ready code to our React web application from your very first sprint. You will work alongside senior engineers, pick up real tickets from our backlog, build UI components for our design system, and learn how professional teams ship software — code reviews, testing, staging deployments, and all. You will be paired with a mentor who will meet with you weekly to discuss your progress, growth areas, and career direction. We believe the best way to learn is to do real work, so there are no toy projects here — just real features used by real customers. High performers are considered for full-time offers at the end of the internship.",
+  "oa_link": "https://forms.gle/example3",
+  "resume_file": "",
+  "resume_text": "ASWIN M A Phone : 9597496287 | Email : m.a.aswin2005@gmail.com | Linkedin | Github | Portfolio EDUCATION Sri Eshwar College of Engineering B.E (ECE) CGPA 8.33(Upto 4th sem) 2022-2026 Literacy Mission Matric Hr Secondary School HSC 83.6% 2020-2022 Literacy Mission Matric Hr Secondary School SSLC 80.8% 2019-2020 EXPERIENCE Software Trainee - Protowiz Private Limited Jan 2025 – Present Developed scalable web applications using React.js, Node.js, Express.js, and Firestore ensuring high performance and maintainability. Led the development of Printz, an Inventory Management System, integrating Firestore for real-time stock tracking, automated inventory updates, and workflow optimization. Built responsive web solutions for Sri Vari Electricals and Star Interior Design, enhancing UI/UX, accessibility, and system efficiency with React.js. PROJECTS BioSync360 : AI-Powered Telemedicine 2025 Developed an AI-driven telemedicine platform for remote healthcare access, enabling real-time health monitoring, predictive diagnostics, and secure doctor consultations. Integrated IoT-enabled smart sensing and AI-based analysis to enhance patient care and early disease detection. Designed a scalable and responsive system to ensure seamless performance and data security. Tech Stack - React.js, Node.js, Express.js, MongoDB, Gemini AI, IoT & Smart Sensing. Metro Minds : Urban Management System - Live Demo 2024 Implemented an IoT-powered solution for city infrastructure monitoring, addressing flood detection, earthquake prediction, traffic control, waste management, and city sound monitoring. Applied ML models and predictive analytics for proactive disaster management. Tech Stack - C, React.js, Node.js, Express.js, MongoDB, Pytorch, IoT & Smart Sensing. Agrisense : Smart Farming & Crop Optimization - Live Demo 2024 Designed a sensor-based system to analyze real-time soil data, enabling precise crop and fertilizer recommendations. Utilized Flask APIs, IoT sensors, and machine learning to enhance agricultural efficiency. Tech Stack - React js, Flask, Convex, Gemini AI, Clerk, IoT & Smart Sensing. CERTIFICATIONS Certified in Cloud Computing Nptel 2024 Certified in Mastering Data Structures & Algorithms (C & C++) Udemy 2023 Certified in Problem Solving through Programming in C Nptel 2023 Certified in The Joy of Computing Using Python Nptel 2023 ACHIEVEMENTS Finalist (2nd Place) – Ninjacart Hackathon (Agritech Solutions) – Ninjacart Pvt. Ltd., Bengaluru Champion – Tech Trek Hackathon (Innovative Tech Solution) – App Innovation Technologies, Coimbatore Finalist (2nd Place) – CodeSprint2K25 (24-Hour Hackathon – Problem Solving) – St. Aloysius University, Mangaluru Top 15 Finalist (600+ participants) – Pravaah Hackathon (AI-Driven Solutions) – Quadrant Technologies, Hyderabad First Place – Project Leap 23 (Java DB Sprint Week 2023 - JavaFX & MySQL) – Sri Eshwar College of Engineering, Coimbatore First Place – Project Expo 24 (Mini Project Innovation) – Sri Eshwar College of Engineering, Coimbatore LeetCode – Secured Highest Rating of 1,738 (Top 11.28% globally) | Profile CodeChef – Secured Highest Rating of 1,187 | Profile HackerRank – 5 stars in Python, 4 stars in C, 4 stars in SQL, 3 stars in C++, 3 stars in Java | Profile SKILLS LANGUAGES - C | C++ (Familiar) | Python | Core Java | HTML | CSS | JavaScript CONCEPTS - Data Structures & Algorithms | Object-Oriented Programming (OOP) DATABASES - SQL | MongoDB | Convex | Firestore CLOUD PLATFORMS - AWS FRAMEWORK & LIBRARY - Flask | Express.js | React.js | Chart.js | Node.js TOOLS - VS Code | PyCharm | GitHub | IntelliJ IDEA | Eclipse | Figma | Clerk",
+  "github_data": {
+    "username": "maaswin03",
+    "public_repos": 29,
+    "followers": 0,
+    "following": 0,
+    "top_languages": [
+      "TypeScript",
+      "JavaScript",
+      "Java",
+      "Python",
+      "HTML"
+    ],
+    "most_starred_repo": "comicOS (0 stars)",
+    "total_stars": 0,
+    "total_forks": 0,
+    "coding_since": 2023,
+    "bio": ""
+  },
+  "leetcode_data": {
+    "username": "maaswin02",
+    "easy_solved": 289,
+    "medium_solved": 117,
+    "hard_solved": 5,
+    "total_solved": 411,
+    "contest_rating": 1700,
+    "contest_max_rating": 1738,
+    "contests_attended": 41,
+    "contest_top_percentage": 13.24,
+    "global_ranking": 265046,
+    "badges": [
+      "50 Days Badge 2025",
+      "100 Days Badge 2024",
+      "50 Days Badge 2024"
+    ],
+    "top_languages": [
+      "Python3",
+      "C++",
+      "Java",
+      "MySQL",
+      "C"
+    ],
+    "top_dsa_tags": [
+      "Array",
+      "String",
+      "Hash Table",
+      "Math",
+      "Sorting"
+    ]
+  },
+  "credly_data": {
+    "certifications": []
+  },
+  "resume_analysis": {
+    "score": 78,
+    "strengths": [
+      "Hands-on React.js experience in a real professional setting at Protowiz Private Limited (Jan 2025–Present), directly building responsive web solutions for actual clients — closely mirrors the JD's emphasis on production-ready code",
+      "Multiple React.js projects (BioSync360, Metro Minds, Agrisense) demonstrate consistent UI development ability across diverse domains, showing readiness to build UI components as the JD requires",
+      "Strong JavaScript/HTML/CSS foundation listed in skills, supported by active project usage — core requirements for a frontend intern role",
+      "Proven track record of shipping live, deployed projects (Live Demo links mentioned for Metro Minds and Agrisense) indicating ability to contribute to staging and production workflows"
+    ],
+    "weaknesses": [
+      "No explicit mention of experience with design systems, component libraries, or UI design tokens — JD specifically requires building UI components for a design system",
+      "No evidence of familiarity with code review workflows, version control practices (e.g., pull requests, branching strategies), or testing frameworks (e.g., Jest, React Testing Library) despite JD emphasizing these",
+      "No mention of TypeScript despite GitHub data showing it as top language — resume does not highlight this relevant skill which would strengthen frontend credibility",
+      "Current experience is as a Software Trainee (full-stack), not exclusively frontend — depth of pure frontend/React specialization is unclear"
+    ],
+    "red_flags": [
+      "Email on resume (m.a.aswin2005@gmail.com) differs from application email (maaswin03@gmail.com) — minor inconsistency worth clarifying",
+      "Resume lists CGPA only up to 4th semester (8.33) with no mention of current academic standing for a 2022-2026 program — candidate is still an ongoing student which is fine for internship but should be confirmed"
+    ]
+  },
+  "github_analysis": {
+    "score": 80,
+    "strengths": [
+      "TypeScript and JavaScript are among the top languages, directly aligning with the React frontend intern role requirements.",
+      "29 public repositories indicate a consistent habit of building and sharing projects.",
+      "Coding since 2023 demonstrates a solid approximately 3-year history of engagement and development on GitHub."
+    ],
+    "weaknesses": [
+      "The absence of stars or forks on repositories, while common for an intern, means there is no external validation of project visibility or impact.",
+      "Lack of detailed descriptions or READMEs for public repositories makes it difficult to fully assess the purpose, complexity, or quality of individual projects."
+    ],
+    "red_flags": []
+  },
+  "leetcode_analysis": {
+    "score": 75,
+    "strengths": [
+      "411 problems solved, including 117 medium, demonstrates extensive DSA practice and a solid foundation.",
+      "Contest rating of 1700 (max 1738) places candidate in the top 13.24% globally, indicating strong competitive programming ability.",
+      "Possesses multiple consistency badges (100 Days Badge 2024, 50 Days Badge 2024 & 2025), reflecting strong discipline and consistent coding habits.",
+      "Solid foundation in core DSA topics like Array, String, Hash Table, and Sorting, which are fundamental for software development."
+    ],
+    "weaknesses": [
+      "Only 5 hard problems solved, suggesting less experience with advanced algorithmic challenges.",
+      "The medium/hard problem ratio is skewed towards easy problems, with approximately 29.7% being medium or hard."
+    ],
+    "red_flags": []
+  },
+  "credly_analysis": {
+    "score": 40,
+    "strengths": [
+      "Certified in Mastering Data Structures & Algorithms (Udemy) demonstrates proactive upskilling in core CS concepts, valuable for problem-solving.",
+      "NPTEL certifications in Cloud Computing, Problem Solving in C, and The Joy of Computing Using Python indicate foundational knowledge across multiple CS domains."
+    ],
+    "weaknesses": [
+      "No industry-grade or specialized frontend development certifications (e.g., React, JavaScript frameworks).",
+      "Certifications are foundational and broad, lacking direct relevance to the specific requirements of a Frontend Intern role focusing on React and UI components."
+    ],
+    "red_flags": []
+  },
+  "overall_score": 72,
+  "combined_strengths": [
+    "Hands-on React.js experience in a professional setting (Protowiz), building solutions for actual clients.",
+    "Strong problem-solving ability demonstrated by high LeetCode rating (1700, top 13.24%) and 400+ solved problems.",
+    "GitHub activity validates resume claims, with TypeScript and JavaScript as top languages, directly supporting the required frontend tech stack.",
+    "Multiple deployed React.js projects with live demos (e.g., Metro Minds) show an ability to ship production-ready code.",
+    "Consistency and discipline proven by multiple LeetCode badges (100 Days Badge) and a 3-year GitHub history with 29 repos.",
+    "Udemy DSA certification provides third-party validation for the strong algorithmic skills demonstrated on LeetCode."
+  ],
+  "combined_weaknesses": [
+    "Lacks stated experience with key software development lifecycle practices mentioned in the job description, such as design systems, code reviews, and testing frameworks.",
+    "Resume underrepresents skills by omitting TypeScript, which GitHub data reveals as a top language for the candidate.",
+    "Certifications are foundational (NPTEL, Udemy) and do not include any specialized credentials for React or modern frontend development.",
+    "GitHub projects lack external validation (0 stars/forks) and detailed READMEs, making it difficult to assess their quality and impact.",
+    "Low number of 'Hard' problems solved on LeetCode (5) may indicate a potential weakness in tackling highly complex algorithmic challenges.",
+    "Current professional experience is full-stack (React, Node.js, Firestore), potentially limiting the depth of specialized frontend expertise."
+  ],
+  "combined_red_flags": [],
+  "decision": "",
+  "reasoning": "The candidate's overall score of 72 indicates a strong profile for the Frontend Intern role. Their key strengths include hands-on professional experience with React.js, demonstrated through both their trainee role and multiple deployed personal projects. This is strongly supported by a very competitive LeetCode profile, placing them in the top 13% globally, which proves a solid problem-solving foundation. While the candidate lacks explicit experience with design systems and testing, their proven ability to ship real-world applications suggests they are a fast learner. Given the high score, strong alignment of core skills, and absence of any critical red flags, the candidate is approved for the next stage.",
+  "confidence": 90,
+  "email_subject": "Next Steps for your Frontend Intern application with HireIQ",
+  "email_content": "Dear Aswin,\n\nThank you for your interest in the Frontend Intern role at HireIQ. Our team has reviewed your application and we were very impressed.\n\nWe were particularly impressed with your hands-on experience building web applications at Protowiz and your strong problem-solving skills demonstrated on your LeetCode profile.\n\nThe next step in our process is a short online assessment to further evaluate your technical skills. Please use the following link to access it: https://forms.gle/example3\n\nPlease complete the assessment within the next 5 days. It should take approximately 60-90 minutes to complete. We recommend finding a quiet time and space where you can focus.\n\nWe look forward to seeing your submission. Best of luck!\n\nSincerely,\nThe HireIQ Talent Team",
+  "slack_message": "👤 *Candidate:* Aswin | *Role:* Frontend Intern | *Score:* 72/100 | *Decision:* APPROVE\n*Key Strengths:*\n- Hands-on React.js experience in a professional setting (Protowiz), building solutions for actual clients.\n- Strong problem-solving ability demonstrated by high LeetCode rating (1700, top 13.24%) and 400+ solved problems.\n- GitHub activity validates resume claims, with TypeScript and JavaScript as top languages, directly supporting the required frontend tech stack.\n*Watch Items:*\n- Lacks stated experience with key software development lifecycle practices mentioned in the job description, such as design systems, code reviews, and testing frameworks.\n- Resume underrepresents skills by omitting TypeScript, which GitHub data reveals as a top language for the candidate.\n*Red Flags:* None\n*Confidence:* 90%"
+}

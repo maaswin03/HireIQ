@@ -1,0 +1,123 @@
+Airia AI Agents Hackathon
+Build AI agents that meet users in their daily platforms, or orchestrate autonomous multi-agent workflows across your tech stack—intelligence everywhere it's needed.
+
+🚀 Airia AI Agent Challenge
+Build the Future of Enterprise AI
+Join us for an exciting virtual hackathon where you'll create cutting-edge AI agents that transform how people work. Whether you're bringing AI directly into users' daily tools or building sophisticated multi-agent systems, this is your opportunity to showcase innovation that matters.
+
+🎯 Challenge Tracks
+Track 1: Airia Everywhere
+Meet users where they already are.
+
+Build AI agents that seamlessly integrate into the platforms people use every day. No more context-switching, no more friction—just intelligent assistance exactly when and where it's needed.
+
+Target Platforms:
+
+🌐 Browser extensions
+📧 Outlook & email inboxes
+💬 Chat widgets
+💼 Slack & Microsoft Teams
+📁 SharePoint
+📱 WhatsApp
+🔌 Custom APIs for iterative workflows
+Think: Personal AI assistants that live in your browser, email triaging bots, Slack integrations that automate team workflows, or browser extensions that enhance productivity across any web application.
+
+Track 2: Active Agents
+Orchestrate intelligence across your entire tech stack.
+
+Design sophisticated multi-agent workflows that autonomously gather data, make decisions, and perform actions across 2+ systems. Build the autonomous workforce of tomorrow.
+
+Key Capabilities:
+
+🤝 Multi-system integrations
+👤 Human-in-the-loop (HITL) decision points
+📄 Dynamic document generation
+🔄 Nested agent architectures
+⚡ Automated cross-platform workflows
+Think: Contract analysis pipelines, automated compliance monitoring systems, intelligent customer onboarding workflows, or research agents that synthesize information from multiple sources.
+
+ 
+
+ 
+
+ 
+
+             
+Requirements
+Required Submissions
+1. Agent Name
+Give your AI agent a memorable name that reflects its purpose and personality. Be creative—this is how your agent will be known in the community!
+
+2. Project Description
+Provide a clear and compelling description of your agent that includes:
+
+Problem Statement: What challenge does your agent solve?
+Solution Overview: How does your agent address this problem?
+Key Features: What are the main capabilities of your agent?
+Technologies Used: What platforms, integrations, or Airia features power your agent?
+Target Users: Who will benefit from your agent?
+3. Demo Video ⭐
+Create and submit a video demonstration of your agent in action.
+
+Video Requirements:
+
+✅ Maximum length: 4 minutes
+✅ Must be hosted on YouTube or Vimeo (public or unlisted)
+✅ Must show your agent working in real-time (not just slides)
+✅ Should include narration or captions explaining functionality
+✅ Clearly demonstrate the problem solved and value delivered
+💡 Pro Tip: Keep it engaging! Show, don't just tell. Judges want to see your agent in action.
+
+4. Airia Community Submission 🌐
+Your agent MUST be published to the Airia Community to be eligible for prizes.
+
+This is your ticket to entry! Follow these steps:
+
+Log into your Airia account
+Navigate to the Community section
+Click "Share Agent" or "Publish to Community"
+Complete the agent listing with name, description, and relevant tags
+Ensure your agent is set to Public visibility
+Copy the Community URL to include in your DevPost submission
+             
+Prizes
+$7,000 in prizes
+1st Place Airia Everywhere
+$2,000 in cash
+1 winner
+$250 Airia Credits
+
+2nd Place Airia Everywhere
+$1,000 in cash
+1 winner
+$250 Airia Credits
+
+3rd Place Airia Everywhere
+$500 in cash
+1 winner
+$250 Airia Credits
+
+1st Place Active Agents
+$2,000 in cash
+1 winner
+$250 Airia Credits
+
+2nd Place Active Agents
+$1,000 in cash
+1 winner
+$250 Airia Credits
+
+3rd Place Active Agents
+$500 in cash
+1 winner
+$250 Airia Credits
+
+Judging Criteria
+Technological Implementation
+Does the project demonstrate quality software development? Does the project thoroughly leverage the required tool? How is the quality of the code?
+Design
+Is the user experience and design of the project well thought out? Is there a balanced blend of frontend and backend in the software?
+Potential Impact
+How big of an impact could the project have on the enterprise? How big of an impact could it have in the market?
+Quality of Idea
+How creative and unique is the project? Does the concept exist already? If so, how much does the project improve on it? *

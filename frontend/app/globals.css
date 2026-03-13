@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #ffffff;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-montserrat);
+  --font-display: var(--font-rajdhani);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-montserrat), sans-serif;
+}
+
+/* ── Gradient text ── */
+.gradient-text {
+  background: linear-gradient(135deg, #2563eb, #3b82f6, #60a5fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Floating blob animations ── */
+@keyframes float-1 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25% { transform: translate(60px, -40px) scale(1.1); }
+  50% { transform: translate(-30px, -80px) scale(0.95); }
+  75% { transform: translate(-60px, 20px) scale(1.05); }
+}
+@keyframes float-2 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25% { transform: translate(-50px, 50px) scale(1.08); }
+  50% { transform: translate(40px, 20px) scale(0.92); }
+  75% { transform: translate(70px, -30px) scale(1.04); }
+}
+@keyframes float-3 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(40px, 60px) scale(1.06); }
+  66% { transform: translate(-50px, -20px) scale(0.94); }
+}
+@keyframes float-4 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  20% { transform: translate(-40px, -50px) scale(1.1); }
+  40% { transform: translate(30px, -30px) scale(0.96); }
+  60% { transform: translate(50px, 40px) scale(1.05); }
+  80% { transform: translate(-20px, 60px) scale(0.98); }
+}
+@keyframes float-5 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  30% { transform: translate(50px, 30px) scale(1.08); }
+  60% { transform: translate(-40px, -40px) scale(0.93); }
+}
+
+.blob-1 { animation: float-1 18s ease-in-out infinite; }
+.blob-2 { animation: float-2 22s ease-in-out infinite; }
+.blob-3 { animation: float-3 16s ease-in-out infinite; }
+.blob-4 { animation: float-4 20s ease-in-out infinite; }
+.blob-5 { animation: float-5 24s ease-in-out infinite; }
+
+/* ── Fade-in / slide-up animations ── */
+@keyframes fade-in-up {
+  0% { opacity: 0; transform: translateY(24px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.7s ease-out both;
+}
+.animate-fade-in-up-delay-1 {
+  animation: fade-in-up 0.7s ease-out 0.15s both;
+}
+.animate-fade-in-up-delay-2 {
+  animation: fade-in-up 0.7s ease-out 0.3s both;
+}
+.animate-fade-in-up-delay-3 {
+  animation: fade-in-up 0.7s ease-out 0.45s both;
+}
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out both;
+}
+.animate-pulse-soft {
+  animation: pulse-soft 3s ease-in-out infinite;
+}
+.animate-shimmer {
+  background-size: 200% auto;
+  animation: shimmer 3s linear infinite;
+}
+
+/* ── Scrolling tech keyword columns ── */
+@keyframes scroll-up {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-50%); }
+}
+@keyframes scroll-down {
+  0% { transform: translateY(-50%); }
+  100% { transform: translateY(0); }
+}
+
+.scroll-up {
+  animation: scroll-up 30s linear infinite;
+}
+.scroll-down {
+  animation: scroll-down 30s linear infinite;
+}
+.scroll-up-slow {
+  animation: scroll-up 40s linear infinite;
+}
+.scroll-down-slow {
+  animation: scroll-down 40s linear infinite;
+}
+
+/* ── Radial fade mask for keyword background ── */
+.keyword-fade {
+  mask-image: radial-gradient(ellipse 60% 50% at 50% 50%, transparent 30%, black 70%);
+  -webkit-mask-image: radial-gradient(ellipse 60% 50% at 50% 50%, transparent 30%, black 70%);
+}
