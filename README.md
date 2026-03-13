@@ -1,4 +1,4 @@
-##Inspiration
+**Inspiration**
 
 Every day, recruiters spend hours doing something AI should handle - reading the 
 same resume format, Googling candidate GitHub profiles, manually checking LeetCode 
@@ -10,7 +10,7 @@ That question became HireIQ.
 
 ---
 
-##What It Does
+**What It Does**
 
 HireIQ is a full-stack AI hiring platform that deploys **9 specialized agents** to 
 evaluate every candidate signal - resume, code, problem-solving, and certifications - then puts the final decision exactly where it belongs: **in human hands**.
@@ -76,7 +76,7 @@ Here's what happens the moment a candidate hits Submit:
 
 ---
 
-##How We Built It
+**How We Built It**
 
 HireIQ is built on a modern full-stack architecture designed for speed, 
 reliability, and seamless AI orchestration across every layer.
@@ -134,7 +134,7 @@ actual projects, using the company name, reading like a real human wrote it.
 
 ---
 
-##The Hard Problems We Solved
+**The Hard Problems We Solved**
 
 **Agents Were Lying**
 
@@ -159,7 +159,7 @@ engineering for logic.
 
 ---
 
-##What We Learned
+**What We Learned**
 
 > The best AI systems aren't the ones that do the most - they're the ones that 
 > know exactly when to hand control back to a human.
@@ -170,7 +170,7 @@ engineering for logic.
 
 ---
 
-##What's Next
+**What's Next**
 
 - **Faster pipeline** - parallel agent execution to cut 5 minutes down to under 90 seconds
 - **Interview scheduling** - one click calendar invite directly from the HR dashboard
