@@ -24,6 +24,8 @@ import {
   updateDoc,
   increment,
 } from "firebase/firestore";
+import dotenv from "dotenv";
+dotenv.config();
 
 // ── Firebase ──────────────────────────────────────────────────────────────────
 const firebaseConfig = {
